@@ -6,7 +6,7 @@ O foco central é o Prolog como motor de inferência, garantindo a precisão e a
 
 ---
 
-## 🧠 Núcleo de Decisão: Prolog (A Fonte da Verdade)
+## 🧠 Núcleo de Decisão: Prolog
 
 O coração do sistema é construído em **Prolog**, operando como um motor de inferência confiável.
 
@@ -16,7 +16,7 @@ O coração do sistema é construído em **Prolog**, operando como um motor de i
 
 ---
 
-## ✨ Camada de Conteúdo: Google Gemini (Enriquecimento)
+## ✨ Camada de Conteúdo: Google Gemini
 
 Após a decisão do Prolog, o destino é enviado à **API do Google Gemini**:
 
