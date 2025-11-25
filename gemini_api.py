@@ -3,7 +3,7 @@ import sys
 import re
 
 # Use a sua chave de API real aqui.
-API_KEY = "AIzaSyCU3AZN_cU8E1ISf19Rq04UG6Mc8Tup5L8" 
+API_KEY = "SUA_CHAVE_AQUI" 
 genai.configure(api_key=API_KEY)
 
 def remove_emojis(text):
